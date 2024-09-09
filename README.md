@@ -1,0 +1,1 @@
+# php-inheritance-parent-vs-self-explained
